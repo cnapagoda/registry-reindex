@@ -11,4 +11,4 @@ Configuration Steps:
 
 3). Restart the server.
 
-4). Connect to the server using jconsole and you can find related operation under object path of "org.wso2.registry.reindex"
+4). Connect to the server using jconsole and you can find relvent operations under object path of "org.wso2.registry.reindex"
