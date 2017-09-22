@@ -1,7 +1,7 @@
-#JMX Bean to Re-index WSO2 Registry Solr data. Edit
+#JMX Bean to re-index WSO2 Registry Solr data.
 
 
-This project provides a JMX bean to reindex WSO2 Registry Solr data.
+This project provides a JMX bean to re-index WSO2 Registry Solr data.
 
 Configuration Steps:
 
